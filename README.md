@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @djFatNerd
-- 👀 I’m interested in Computer Vision
-
+- 👋 Hi, I’m @djFatNerd.
+- 👀 I’m interested in Computer Vision. Currently, 3D Scene Generation, Scene Graph Understanding.
 - 💞️ I’m looking to collaborate on interesting CV, ML projects or problems that require interesting algorithms.
 - 📫 reach me @ dengj325@gmail.com
 

@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @djFatNerd.
-- 👀 I’m interested in Computer Vision. Currently, 3D Scene Generation, Scene Graph Understanding.
-- 💞️ I’m looking to collaborate on interesting CV, ML projects or problems that require interesting algorithms.
-- 📫 reach me @ dengj325@gmail.com
+- 👋 Hi, I’m DJ.
+- 👀 I’m interested in Computer Vision. Currently, I am working on large-scale city scene generation.
+- 💞️ I’m looking to collaborate on interesting CV, projects.
+- 📫 Please reach me @ dengj325@gmail.com.
 
 <!---
 djFatNerd/djFatNerd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

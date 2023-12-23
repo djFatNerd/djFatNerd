@@ -1,5 +1,5 @@
 - 👋 Hi, I’m DJ.
-- 👀 I’m interested in Computer Vision. Currently, I am working on large-scale city scene generation.
+- 👀 I’m interested in Computer Vision. Currently, I am working on large-scale city generation.
 - 💞️ I’m looking to collaborate on interesting CV, projects.
 - 📫 Please reach me @ dengj325@gmail.com.
 
